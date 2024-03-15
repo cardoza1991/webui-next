@@ -1,6 +1,6 @@
 {
-	"name": "Open WebUI",
-	"short_name": "Open WebUI",
+	"name": "Master Shake",
+	"short_name": "Master Shake",
 	"start_url": "/",
 	"display": "standalone",
 	"background_color": "#343541",
